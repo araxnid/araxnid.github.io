@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=ABeeZee');
+
+.logo {
+  padding-top: 10px
+}
+
+.nav {
+    font-family: 'ABeeZee', sans-serif;
+}
+
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: red;
+}
